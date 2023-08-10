@@ -24,4 +24,4 @@ This project is built solely using HTML, CSS and Javascript. It helps in visuali
 
 ### 3. Time and Space complexity of algorithm being visualized.
 
-[Project Screenshot](./Capture.PNG)
+![Project Screenshot](./Capture.PNG)
