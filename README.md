@@ -24,7 +24,7 @@ This project is built solely using HTML, CSS and Javascript. It helps in visuali
 
 ### 3. Time and Space complexity of algorithm being visualized.
 
-# Public link:
+### 4. Public link:
 https://sorting-algorithms-visualizer-three.vercel.app/
 
 ![Project Screenshot](./Capture.PNG)
